@@ -61,6 +61,7 @@ Original Matrix =
 
 
 Take a moveLeft at original matrix:
+
 |    8|    4|     |     |
 
 |    4|     |     |     |
@@ -71,6 +72,7 @@ Take a moveLeft at original matrix:
 
 
 Take a moveRight at original matrix:
+
 |     |     |    4|    8|
 
 |     |     |     |    4|
@@ -81,6 +83,7 @@ Take a moveRight at original matrix:
 
 
 Take a moveUp at original matrix:
+
 |    8|     |    8|    8|
 
 |    4|     |    4|     |
@@ -91,6 +94,7 @@ Take a moveUp at original matrix:
 
 
 Take a moveDown at original matrix:
+
 |     |     |     |     |
 
 |     |     |     |     |
