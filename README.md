@@ -4,11 +4,8 @@ A simple implementation version of 2048 for 4*4 matrix
 In this game, there is a 4*4 matrix, whose positions can be numbered from 0 to 15 as follows.
 
 |  0  |  1  |  2  |  3  |
-
 |  4  |  5  |  6  |  7  |
-
 |  8  |  9  |  10 |  11 |
-
 |  12 |  13 |  14 |  15 |
 
 At each position, there may be empty position or a number that is an exponent of 2.
