@@ -14,6 +14,7 @@ In this game, there is a 4*4 matrix, whose positions can be numbered from 0 to 1
 At each position, there may be empty position or a number that is an exponent of 2.
 For example , 2, 4, 8 16, 32, etc.
 A possible matrix may then be like this:
+
 |  128|   32|     |     |
 
 |    2|    4|     |     |
@@ -30,6 +31,7 @@ Here are more details about this class.
 and p1 and p2 will be a position from 0 to 15.
 Then the corresponding positions will be set to 2, and others will be set to 0.
 As an example, if calling Matrix(13, 14), the matrix will be like this:
+
 |     |     |     |     |
 
 |     |     |     |     |
@@ -48,6 +50,7 @@ Note that if the matrix is changed after this operation, you should return true,
 Here is an example.
 
 Original Matrix =
+
 |    4|     |    4|    4|
 
 |     |     |     |    4|
